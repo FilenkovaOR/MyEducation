@@ -20,6 +20,7 @@
 Клонировать репозиторий через Git:
 
 git clone https://github.com/FilenkovaOR/MyEducation.git
+
 Загрузить архив с сайта GitHub:
 
 Перейдите на страницу репозитория и нажмите кнопку "Code" → "Download ZIP".
